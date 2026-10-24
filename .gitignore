@@ -1,0 +1,28 @@
+# Large EEG dataset directories and raw binaries
+data/
+*.mat
+*.set
+*.fdt
+
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+venv/
+env/
+ENV/
+
+# IDE & Editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS temporary files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
